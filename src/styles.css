@@ -1,0 +1,12 @@
+/*Universal styles ONLY in this styles file*/
+.App {
+  font-family: sans-serif;
+}
+h1 {
+  color: #00ffff;
+  text-align: center;
+}
+span {
+  color: #ffffff;
+  font-weight: bold;
+}
